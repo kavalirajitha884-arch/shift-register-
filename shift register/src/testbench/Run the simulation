@@ -1,0 +1,1 @@
+iverilog -o shift_register_sim src/shift_register.v testbench/shift_register_tb.v
